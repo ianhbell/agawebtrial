@@ -3,10 +3,11 @@ layout: default
 title: AGA8 supplemental material
 ---
 
-REPOSITORY FOR THE SUPPLEMENTARY FILES TO AGA 8, 2017 EDITION
-One zipped file is available at the below URL containing the supplementary material described in Parts 1 and 2 of AGA 8 Report No. 8, titled Thermodynamic Properties of Natural Gas and Related Gases, 2017.  The description of the contents of each folder contained in the zipped file follows.
+# REPOSITORY FOR THE SUPPLEMENTARY FILES TO AGA 8, 2017 EDITION
 
-Official release zip file: [Link to zip file](https://github.com/usnistgov/AGA8/archive/AGA8release.zip) (right-click on URL, then select ``Save As...`` or equivalent on your browser)
+A zipped file is available at the below URL containing the supplementary material described in Parts 1 and 2 of AGA 8 Report No. 8, titled Thermodynamic Properties of Natural Gas and Related Gases, 2017.  The description of the contents of each folder contained in the zipped file follows.
+
+**Official release zip file**: [Link to zip file](https://github.com/usnistgov/AGA8/archive/AGA8release.zip) .  If oyu have difficulties, right-click on URL, then select ``Save As...`` or equivalent in your browser.
 
 Contents of folder ``TestData``:
 
