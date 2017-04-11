@@ -7,7 +7,7 @@ title: AGA8 supplemental material
 
 A zipped file is available at the below URL containing the supplementary material described in Parts 1 and 2 of AGA 8 Report No. 8, titled Thermodynamic Properties of Natural Gas and Related Gases, 2017.  The description of the contents of each folder contained in the zipped file follows.
 
-**Official release zip file**: [Link to zip file](https://github.com/usnistgov/AGA8/archive/AGA8release.zip) .  If oyu have difficulties, right-click on URL, then select ``Save As...`` or equivalent in your browser.
+**Official release zip file**: [Link to zip file](https://github.com/usnistgov/AGA8/archive/AGA8release.zip) .  If you have difficulties, right-click on URL, then select ``Save As...`` or equivalent in your browser.
 
 Contents of folder ``TestData``:
 
@@ -25,5 +25,5 @@ Contents of folder ``AGA8Code``:
  
 Contents of folder ``1994Code``:
 
-The original files with the code from the 1994 version of AGA 8 are contained within this directory. These files include AGA8PROG.EXE, AGA8PROG.FOR, DETAILXZ.FOR, GROSSXZ.FOR, UNITS.FOR, and CONF.SAV. The four Fortran files were compiled to make the executable, and the conf.sav file contains the settings specified by the user. 
-1994AGA8.doc – Contains all documentation concerning the use of these Fortran files from the 1994 edition that is not included in the 2016 revision.
+* The original files with the code from the 1994 version of AGA 8 are contained within this directory. These files include ``AGA8PROG.EXE``, ``AGA8PROG.FOR``, ``DETAILXZ.FOR``, ``GROSSXZ.FOR``, ``UNITS.FOR``, and ``CONF.SAV``. The four Fortran files were compiled to make the executable, and the conf.sav file contains the settings specified by the user. 
+* ``1994AGA8.doc`` – Contains all documentation concerning the use of these Fortran files from the 1994 edition that is not included in the 2016 revision.
